@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eatlot Employee</string>
+    <string name="edit_message">enter a message</string>
+    <string name="button_send">send</string>
+    <string name="start_tracking">Start Tracking</string>
+    <string name="restaurant">Restaurant Name</string>
+</resources>
